@@ -1,6 +1,6 @@
 # tchatnodejs
 
-[LEARN,LEARN,LEARN]
+[Keep learning session: Node.js]
 
 How to create a tchat with node.js
 
